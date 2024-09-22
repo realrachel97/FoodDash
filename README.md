@@ -6,4 +6,4 @@
 - Utilized Hibernate to access and operate data storage (menus, restaurants etc.)
 - Deployed the whole application to AWS EC2 with Docker for better performance and reliability.
 
-https://user-images.githubusercontent.com/92890707/189497683-59373515-becd-4930-a546-90ec14939d76.mp4
+
